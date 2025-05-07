@@ -1,3 +1,14 @@
+```
+> NAMA KELOMPOK   : Kelompok 13
+> NAMA SUPERVISOR :
+    - SAKTI ARISENA DAMAI PRASETYO (2042221029)
+    - YASMINE YULIANA SALIM (2042221062)
+    - AULIAZQI RARASATI NAJID (2042221116)
+
+> NAMA DEPARTEMEN / INSTITUT : Teknik Instrumentasi / INSTITUT TEKNOLOGI SEPULUH NOPEMBER
+
+```
+
 Program Rust ini menghitung fungsi sinus dan kosinus menggunakan pendekatan deret Taylor. Program ini menunjukkan cara mengimplementasikan deret matematika dalam Rust dan membandingkan hasilnya.
 
 ## Fitur
